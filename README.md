@@ -67,6 +67,3 @@ The main objective is to reduce unnecessary electricity consumption and minimize
 - Institution: Adarsh Institute of Technology & Research Centre, Vita
 - Department: Artificial Intelligence and Machine Learning
 
-## Note
-
-The Arduino code in this repository is a sample implementation based on the project synopsis. Pin connections and sensor thresholds should be adjusted according to the actual hardware circuit.
